@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState } from "react";
 import { CssBaseline, Grid } from "@material-ui/core";
 import Header from "./components/Header/Header";
